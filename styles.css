@@ -1,0 +1,32 @@
+.container {
+    align-content: center;
+}
+h2 {
+    text-align: center;
+    margin: 5px;
+}
+
+.limitInput {
+    padding: 5px;
+    margin: 5px;
+    font-size: 12px;
+    width: 150px;
+    height: 20px;
+ }
+
+ button {
+    height: 30px;
+    width: 70px;
+    background: none; /* This removes the default background */
+    color: #313131;
+    border: 1px solid #313131;
+    border-radius: 50px; /* This gives our button rounded edges */
+    font-size: 12px;
+    cursor: pointer;
+    margin: 5px;
+ }
+
+ form {
+    padding-top: 5px;
+    margin: 5px;
+ }
