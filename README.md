@@ -11,8 +11,8 @@ This Chrome extension allows the TA to focus more on giving more detailed feedba
 
 The autograde.js script gets injected into the page after the teaching assistant clicks "Grade!" in the chrome extension popup. The default inclusive lower limit of 100% can be overwritten for test cases passed -> full points. The script works by going through all the loaded students and then checks their passed percentage for the test cases. It then either selects all the full-point radio buttons and submits the grade, or skips the student to allow for further, manual grading by the TA.
 
-![Console Output](https://github.com/vasilzhigilei/AutoGrader/blob/master/readme_resources/AutoGraderCapture.PNG)
-###### *[The console output of autograde.js]*
+<img src="https://github.com/vasilzhigilei/AutoGrader/blob/master/readme_resources/AutoGraderKytosFull.PNG" width="60%"></img> <img src="https://github.com/vasilzhigilei/AutoGrader/blob/master/readme_resources/AutoGraderCapture.PNG" width="30%"></img> 
+###### *[Partial and redacted Kytos grading view alongside the console output of autograde.js]*
 
 History
 -------
