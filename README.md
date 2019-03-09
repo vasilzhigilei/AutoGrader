@@ -1,10 +1,10 @@
 AutoGrader
 ===============
-Assists with the homework grading process for teaching assistantd (TA) og an introductory programming course.
+Assists with the homework grading process for teaching assistantd (TA) of an introductory programming course.
 
 The Chrome Extension
 ----------------
-This Chrome extension allows the TA to focus more on giving more detailed feedback to students who really need it by automatically grading well-scoring test case students for full points. The TA then has more time to grade students who had errors or whose code did not pass some or all of the automated test cases in the course submission website.
+This Chrome extension allows the TA to focus more on giving more detailed feedback to students who really need it by automatically grading well-scoring test case students for full points. The TA then has more time to grade students who had errors or whose code did not pass some or all of the automated test cases in the course submission website (also known as "Kytos").
 
 ![Chrome Extension](https://github.com/vasilzhigilei/AutoGrader/blob/master/readme_resources/AutoGraderPopup.PNG)
 ###### *[The Chrome extension view, limit input defaults to 100%]*
